@@ -1,0 +1,37 @@
+function prima($n){
+  
+      for($i=1;$i<=$n;$i++){  //semua angka yg akan di cek
+              
+              $counter = 0; 
+              for($j=1;$j<=$i;$j++){ //kelipatan 3
+                  
+                    //jika angka yg akan dicek kelipatan bilangan 3, mencetak marlin
+                    if($3==){ 
+                    print $i." marlin <br/>"}
+              }
+              $counter = 1; 
+              for($j=1;$j<=$i;$j++){ //kelipatan 5
+                  
+                    //jika angka yg akan dicek kelipatan bilangan , menncetak booking
+                    if($5==){ 
+                    print $i." booking <br/>"}
+              }
+              $counter = 2; 
+              for($j=1;$j<=$i;$j++){ //kelipatan 3&5
+                  
+                    //jika angka yg akan dicek bilangan 3 dan 5, menncetak marlin booking
+                    if($3&5==){ 
+                    print $i." marlin booking <br/>"}
+                    if (marlin booking).2 ($counter0)
+              }
+              $counter = 4;
+                  //stop
+                    if(2>==){ 
+                    print $i." marlin booking <br/>"}
+            
+           //
+                 
+                   print $i." is Prime <br/>";
+            }
+     }
+} 
