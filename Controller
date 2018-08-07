@@ -1,0 +1,11 @@
+<?php
+namespace App\HTTP\Controller
+use illuminate\HTTP\request;
+
+class asalaja extends asal
+{
+  public function index()
+  stitle = "MARLIN BOOKING";
+  return view ('home,index',compact('title'));
+  }
+}
