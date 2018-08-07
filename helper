@@ -1,0 +1,8 @@
+<?php
+  namespace coba aja;
+  use apaaja/ada/aja;
+
+class User {
+  public static function coba aja($cobaaja) {
+  
+return (isset(cobaaja) ? $cobaaja:");
